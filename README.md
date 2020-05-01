@@ -1,7 +1,10 @@
+# egghead-Talks-Things-Every-Software-Engineer-Should-Know-About-Neurodiversity
+=======
 # Notes:
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ## [Things Every Software Engineer Should Know About Neurodiversity](https://egghead.io/lessons/egghead-egghead-talks-things-every-software-engineer-should-know-about-neurodiversity)
 
@@ -241,6 +244,9 @@ Software Engineering Employees](https://www.microsoft.com/en-us/research/wp-cont
 - [Neurodiversity as a Competitive Advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [Neurodiversity Hub - Resources for Students, Employers & More](https://www.neurodiversityhub.org/)
 - [@mykola](https://twitter.com/mykola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) on Twitter.
+
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -250,6 +256,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://laurosilva.com"><img src="https://avatars2.githubusercontent.com/u/57044804?v=4" width="100px;" alt=""/><br /><sub><b>Lauro Silva</b></sub></a><br /><a href="#content-laurosilvacom" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/lsminter"><img src="https://avatars1.githubusercontent.com/u/26470581?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Minter</b></sub></a><br /><a href="https://github.com/eggheadio-projects/egghead-Talks-Things-Every-Software-Engineer-Should-Know-About-Neurodiversity/pulls?q=is%3Apr+reviewed-by%3Alsminter" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
